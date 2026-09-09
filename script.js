@@ -6,63 +6,63 @@ const destinations = [
     category: "beach",
     description:
       "Turquoise lagoon waters and overwater bungalows ringed by a coral reef.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Bora-bora_from_air.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Bora-bora_from_air.jpg"
   },
   {
     name: "Whitehaven Beach, Australia",
     category: "beach",
     description:
       "Pure silica sand and swirling blue water in the Whitsunday Islands.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Whitehaven_Beach,_Whitsunday_Island,_Queensland.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Whitehaven_Beach,_Whitsunday_Island,_Queensland.jpg"
   },
   {
     name: "Navagio Beach, Greece",
     category: "beach",
     description:
       "A shipwreck-dotted cove on Zakynthos, reachable only by boat.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Navagio_beach_Zakynthos.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Navagio_beach_Zakynthos.jpg"
   },
   {
     name: "Angkor Wat, Cambodia",
     category: "temple",
     description:
       "The largest religious monument in the world, famous for sunrise views.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor_Wat.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Angkor_Wat.jpg"
   },
   {
     name: "Kinkaku-ji, Japan",
     category: "temple",
     description:
       "Kyoto's Golden Pavilion, a Zen temple reflected in its own pond.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Kinkaku3402.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Kinkaku3402.jpg"
   },
   {
     name: "Borobudur, Indonesia",
     category: "temple",
     description:
       "A 9th-century Buddhist temple built as a giant stepped mandala.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Borobudur_Temple.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Borobudur_Temple.jpg"
   },
   {
     name: "Japan",
     category: "country",
     description:
       "From neon Tokyo streets to quiet mountain shrines and bullet trains.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Mt._Fuji.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Mt._Fuji.jpg"
   },
   {
     name: "New Zealand",
     category: "country",
     description:
       "Fjords, glaciers, and film-set landscapes across two dramatic islands.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/MilfordSound.jpg"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/MilfordSound.jpg"
   },
   {
     name: "Italy",
     category: "country",
     description:
       "Ancient ruins, coastal towns, and food worth planning a trip around.",
-    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Tuscan_Landscape_7.JPG"
+    image: "https://en.wikipedia.org/wiki/Special:FilePath/Tuscan_Landscape_7.JPG"
   }
 ];
 
